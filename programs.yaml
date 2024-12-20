@@ -129,3 +129,15 @@
     - DeFi
     - Lending
     - Borrowing
+
+- name: Convergence
+  description: The best price swaps on Eclipse
+  repo: https://github.com/convergence-rfq/convergence-program-library
+  icon: https://www.convergence.so/assets/favicon-white.svg
+  framework: Anchor
+  program_address: LfunVKmPLfejpbCXPnrLbjZr693RrgKHdQub2ge1ZC9
+  categories:
+    - Defi
+    - Aggregator
+
+    
